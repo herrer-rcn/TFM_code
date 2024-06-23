@@ -11,3 +11,5 @@ Autor:Rubén Herrera
 - En el scriot TFM fragmentacion de golpes del giroscopio, se realiza la particion de golpes del giroscopio, basandose en los tiempos unix de los golpes del acelerometro
 - En el script interpolación TFM se realiza la busqueda del fragmento con mas puntos y se iguala el resto de muestras a esa muestra con mas puntos
 - En el script fusionyconversionparamodeloTFM.ipynb se realiza una conversion a columnas de los archivos interpolados del giroscopio y del acelerometro
+- en el script modeloacc TFM se realiza la particion en train test i validacion cruzada i la creacion de los modelos busqueda de hiperparametros del modelo solo de acc
+- 
