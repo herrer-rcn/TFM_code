@@ -13,3 +13,4 @@ Autor:Rubén Herrera
 - En el script fusionyconversionparamodeloTFM.ipynb se realiza una conversion a columnas de los archivos interpolados del giroscopio y del acelerometro
 - en el script modeloacc TFM se realiza la particion en train test i validacion cruzada i la creacion de los modelos busqueda de hiperparametros del modelo solo de acc
 - En el script modelo acc_gyr TFM se realza la particion en train test i validacion cruzada i la creacion de los modelos busqueda de hiperparametros del modelo del aceleremetro mas el giroscopio
+- Los scripts de TFM DTW y de fragmentacion por tiempo son parte de las pruebas realizadas para probar dichos metodos
